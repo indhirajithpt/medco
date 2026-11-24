@@ -1,0 +1,11 @@
+{
+  "archive_url": "https://github.com/abachaa/MedQuAD/archive/refs/heads/master.zip",
+  "archive_sha256": "45aeef400844f3551a7862c3378cc9edf72818ef09d6c1d400f227207ee5179d",
+  "seed": 42,
+  "counts": {
+    "train": 400,
+    "validation": 50,
+    "test": 50
+  },
+  "status": "DRAFT \u2014 clinical and rights review required"
+}
